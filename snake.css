@@ -1,0 +1,22 @@
+#gluttonous-snake
+
+#dakuai{
+	width:310px;
+	height: 310px;
+	border:red;
+	/*border: 1px solid red;*/
+/*	margin: 0 auto;
+	box-shadow: 1px 1px 14px #666;*/
+}
+.xiaokuai{
+	margin-top: -1px;
+	margin-left: -1px;
+	float: left;
+	width:30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	/*background: red;*/
+	border:1px solid black;
+	/*border-radius: 50%;*/
+}
